@@ -4,7 +4,7 @@ Sistema de escritorio para administrar los turnos de una estética de **uñas y 
 Lo usa la secretaria del estudio para registrar clientas y profesionales y para dar turnos
 sin que se superpongan.
 
-Proyecto final individual de **Programación III**.
+Proyecto final individual de **Programación Orientada a Objetos**.
 
 ---
 
